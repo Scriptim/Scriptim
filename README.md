@@ -1,4 +1,8 @@
-![@Scriptim](./scriptim_banner.png)
+<p align="center">
+  <a href="https://github.com/Scriptim">
+    <img src="./scriptim_banner.png" alt="@Scriptim">
+  </a>
+</p>
 
 <p align="center">
   <a href="https://github.com/Scriptim?tab=followers">
